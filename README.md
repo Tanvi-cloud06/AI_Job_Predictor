@@ -12,7 +12,7 @@ is in [docs/README.md](docs/README.md). It is also shown at the bottom of the da
 2. Install the required packages:
 
    ```bash
-   pip install streamlit pandas numpy plotly scikit-learn joblib
+   pip install -r requirements.txt
    ```
 
 3. Start the dashboard from this folder:
