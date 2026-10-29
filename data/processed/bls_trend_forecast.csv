@@ -1,0 +1,10 @@
+occupation,soc_code,year,kind,employment,median_annual_wage,mean_annual_wage,comparable_to_current_soc,source_url,employment_trend_r2,wage_trend_r2
+"Data Scientists and Mathematical Science Occupations, All Other",15-2098,2020,historical,59680.0,98230.0,103930.0,False,https://www.bls.gov/oes/2020/may/oes152098.htm,,
+Data Scientists,15-2051,2023,historical,192710.0,108020.0,119040.0,True,https://www.bls.gov/oes/2023/may/oes152051.htm,,
+Data Scientists,15-2051,2024,historical,245900.0,112590.0,,True,https://www.bls.gov/ooh/math/data-scientists.htm,,
+Data Scientists,15-2051,2025,historical,262440.0,120224.0,126800.0,True,https://www.bls.gov/news.release/ocwage.t01.htm,,
+Data Scientists,15-2051,2026,forecast,303413.0,125815.33,,True,linear fit on bls.gov 2023-2025 (see data/raw/bls_oews_data_scientists.csv),0.9157,0.9794
+Data Scientists,15-2051,2027,forecast,338278.0,131917.33,,True,linear fit on bls.gov 2023-2025 (see data/raw/bls_oews_data_scientists.csv),0.9157,0.9794
+Data Scientists,15-2051,2028,forecast,373143.0,138019.33,,True,linear fit on bls.gov 2023-2025 (see data/raw/bls_oews_data_scientists.csv),0.9157,0.9794
+Data Scientists,15-2051,2029,forecast,408008.0,144121.33,,True,linear fit on bls.gov 2023-2025 (see data/raw/bls_oews_data_scientists.csv),0.9157,0.9794
+Data Scientists,15-2051,2030,forecast,442873.0,150223.33,,True,linear fit on bls.gov 2023-2025 (see data/raw/bls_oews_data_scientists.csv),0.9157,0.9794

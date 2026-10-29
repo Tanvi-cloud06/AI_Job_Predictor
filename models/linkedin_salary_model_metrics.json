@@ -1,0 +1,21 @@
+{
+  "n_rows_total": 1891,
+  "n_train": 1512,
+  "n_test": 379,
+  "r2": 0.2397,
+  "mae_usd": 34764.48,
+  "top_10_features_by_importance": {
+    "experience_level_ord": 0.28,
+    "state_code": 0.1124,
+    "n_skills": 0.1079,
+    "skill_python": 0.0953,
+    "skill_machine_learning": 0.0728,
+    "skill_c_": 0.0478,
+    "skill_sql": 0.0357,
+    "skill_excel": 0.0291,
+    "skill_natural_language_processing": 0.0266,
+    "skill_linux": 0.0186
+  },
+  "total_importance_share_from_skill_features": 0.4817,
+  "caveat": "Trained on 1,891 real LinkedIn postings (April 2024 snapshot) with disclosed salary and a tech/AI/data-relevant title. This is a genuine but small sample -- read R^2 here as indicative, not as strong as a model trained on tens of thousands of rows would be."
+}

@@ -1,0 +1,705 @@
+job_role,ai_specialization,demand_tier,year,kind,salary,job_openings,data_trend_salary,data_trend_openings,data_trend_r2,market_informed_salary,market_informed_openings,salary_cagr_assumed,demand_cagr_assumed,tier_salary_cagr,tier_demand_cagr
+AI Engineer,Analytics,Low,2020,historical,96240.9305076142,3652.0,,,,,,,,,
+AI Engineer,Analytics,Low,2021,historical,98290.92307692308,3425.0,,,,,,,,,
+AI Engineer,Analytics,Low,2022,historical,99904.92528571429,3931.0,,,,,,,,,
+AI Engineer,Analytics,Low,2023,historical,100538.00764150944,3739.0,,,,,,,,,
+AI Engineer,Analytics,Low,2024,historical,101271.27647058823,3092.0,,,,,,,,,
+AI Engineer,Analytics,Low,2025,historical,94841.85026737968,3169.0,,,,,,,,,
+AI Engineer,Analytics,Low,2026,historical,96285.05180904522,3390.0,,,,,,,,,
+AI Engineer,Analytics,Low,2027,forecast,,,97424.79,3180.14,0.0285,97536.49,3415.38,0.013,0.0075,0.015,0.03
+AI Engineer,Analytics,Low,2028,forecast,,,97231.95,3103.82,0.0285,98804.19,3440.95,0.013,0.0075,0.015,0.03
+AI Engineer,Analytics,Low,2029,forecast,,,97039.12,3027.5,0.0285,100088.38,3466.71,0.013,0.0075,0.015,0.03
+AI Engineer,Analytics,Low,2030,forecast,,,96846.28,2951.18,0.0285,101389.25,3492.66,0.013,0.0075,0.015,0.03
+AI Engineer,Computer Vision,Medium,2020,historical,98926.78836787565,3450.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2021,historical,94813.4705882353,3154.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2022,historical,99693.05128205128,3281.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2023,historical,98487.49396860987,4001.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2024,historical,96492.6716025641,4358.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2025,historical,94977.3842583732,3666.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2026,historical,96669.44258139536,3710.0,,,,,,,,,
+AI Engineer,Computer Vision,Medium,2027,forecast,,,95773.67,4071.57,0.1493,100191.77,4183.89,0.0364,0.1277,0.04,0.1
+AI Engineer,Computer Vision,Medium,2028,forecast,,,95429.22,4174.46,0.1493,103842.44,4718.32,0.0364,0.1277,0.04,0.1
+AI Engineer,Computer Vision,Medium,2029,forecast,,,95084.77,4277.36,0.1493,107626.13,5321.01,0.0364,0.1277,0.04,0.1
+AI Engineer,Computer Vision,Medium,2030,forecast,,,94740.32,4380.25,0.1493,111547.69,6000.68,0.0364,0.1277,0.04,0.1
+AI Engineer,Forecasting,Low,2020,historical,102357.07692893401,3494.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2021,historical,95879.72165116279,3605.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2022,historical,97041.7558685446,3558.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2023,historical,94677.06153846154,3412.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2024,historical,95096.10497237569,3084.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2025,historical,102216.88364102563,3393.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2026,historical,96734.73533175356,3796.0,,,,,,,,,
+AI Engineer,Forecasting,Low,2027,forecast,,,96837.86,3478.57,0.0215,97966.53,3910.17,0.0127,0.0301,0.015,0.03
+AI Engineer,Forecasting,Low,2028,forecast,,,96618.63,3478.86,0.0215,99214.01,4027.76,0.0127,0.0301,0.015,0.03
+AI Engineer,Forecasting,Low,2029,forecast,,,96399.4,3479.14,0.0215,100477.37,4148.9,0.0127,0.0301,0.015,0.03
+AI Engineer,Forecasting,Low,2030,forecast,,,96180.17,3479.43,0.0215,101756.83,4273.68,0.0127,0.0301,0.015,0.03
+AI Engineer,Generative AI,High,2020,historical,96031.69775252526,3391.0,,,,,,,,,
+AI Engineer,Generative AI,High,2021,historical,100280.20162100457,3814.0,,,,,,,,,
+AI Engineer,Generative AI,High,2022,historical,104843.89371980676,3704.0,,,,,,,,,
+AI Engineer,Generative AI,High,2023,historical,101323.10344827586,3620.0,,,,,,,,,
+AI Engineer,Generative AI,High,2024,historical,94598.85582914572,3368.0,,,,,,,,,
+AI Engineer,Generative AI,High,2025,historical,98772.0,3563.0,,,,,,,,,
+AI Engineer,Generative AI,High,2026,historical,101001.97797727273,4160.0,,,,,,,,,
+AI Engineer,Generative AI,High,2027,forecast,,,99785.88,3869.86,0.0014,108131.02,5127.66,0.0706,0.2326,0.07,0.22
+AI Engineer,Generative AI,High,2028,forecast,,,99844.78,3922.32,0.0014,115763.26,6320.42,0.0706,0.2326,0.07,0.22
+AI Engineer,Generative AI,High,2029,forecast,,,99903.69,3974.79,0.0014,123934.2,7790.62,0.0706,0.2326,0.07,0.22
+AI Engineer,Generative AI,High,2030,forecast,,,99962.6,4027.25,0.0014,132681.88,9602.81,0.0706,0.2326,0.07,0.22
+AI Engineer,LLM,High,2020,historical,103109.29238425927,3662.0,,,,,,,,,
+AI Engineer,LLM,High,2021,historical,94507.74860335195,3248.0,,,,,,,,,
+AI Engineer,LLM,High,2022,historical,96599.0153902439,3387.0,,,,,,,,,
+AI Engineer,LLM,High,2023,historical,100443.19791666667,3246.0,,,,,,,,,
+AI Engineer,LLM,High,2024,historical,95749.53846153847,3050.0,,,,,,,,,
+AI Engineer,LLM,High,2025,historical,99650.8128342246,3342.0,,,,,,,,,
+AI Engineer,LLM,High,2026,historical,104559.30650259068,3461.0,,,,,,,,,
+AI Engineer,LLM,High,2027,forecast,,,101200.8,3234.86,0.0785,112370.84,4195.56,0.0747,0.2122,0.07,0.22
+AI Engineer,LLM,High,2028,forecast,,,101693.18,3208.0,0.0785,120765.97,5086.03,0.0747,0.2122,0.07,0.22
+AI Engineer,LLM,High,2029,forecast,,,102185.56,3181.14,0.0785,129788.28,6165.49,0.0747,0.2122,0.07,0.22
+AI Engineer,LLM,High,2030,forecast,,,102677.95,3154.29,0.0785,139484.65,7474.05,0.0747,0.2122,0.07,0.22
+AI Engineer,MLOps,High,2020,historical,93755.97524752475,3591.0,,,,,,,,,
+AI Engineer,MLOps,High,2021,historical,96577.52832417583,3275.0,,,,,,,,,
+AI Engineer,MLOps,High,2022,historical,95020.7202072539,3333.0,,,,,,,,,
+AI Engineer,MLOps,High,2023,historical,99856.94305288463,3568.0,,,,,,,,,
+AI Engineer,MLOps,High,2024,historical,98038.9575945946,2964.0,,,,,,,,,
+AI Engineer,MLOps,High,2025,historical,96706.76470588235,3601.0,,,,,,,,,
+AI Engineer,MLOps,High,2026,historical,99111.08563679246,3847.0,,,,,,,,,
+AI Engineer,MLOps,High,2027,forecast,,,99772.86,3604.29,0.4704,106739.65,4730.88,0.077,0.2298,0.07,0.22
+AI Engineer,MLOps,High,2028,forecast,,,100463.65,3641.82,0.4704,114955.38,5817.83,0.077,0.2298,0.07,0.22
+AI Engineer,MLOps,High,2029,forecast,,,101154.43,3679.36,0.4704,123803.48,7154.52,0.077,0.2298,0.07,0.22
+AI Engineer,MLOps,High,2030,forecast,,,101845.22,3716.89,0.4704,133332.61,8798.32,0.077,0.2298,0.07,0.22
+AI Engineer,NLP,Medium,2020,historical,100607.44827586207,3621.0,,,,,,,,,
+AI Engineer,NLP,Medium,2021,historical,101871.23957142857,3590.0,,,,,,,,,
+AI Engineer,NLP,Medium,2022,historical,94045.53024064172,3267.0,,,,,,,,,
+AI Engineer,NLP,Medium,2023,historical,95962.94,3420.0,,,,,,,,,
+AI Engineer,NLP,Medium,2024,historical,99686.31426540283,3696.0,,,,,,,,,
+AI Engineer,NLP,Medium,2025,historical,97728.46798029557,3510.0,,,,,,,,,
+AI Engineer,NLP,Medium,2026,historical,97118.41428571429,3623.0,,,,,,,,,
+AI Engineer,NLP,Medium,2027,forecast,,,96272.64,3571.71,0.1361,100534.87,3995.12,0.0352,0.1027,0.04,0.1
+AI Engineer,NLP,Medium,2028,forecast,,,95804.36,3581.54,0.1361,104071.51,4405.46,0.0352,0.1027,0.04,0.1
+AI Engineer,NLP,Medium,2029,forecast,,,95336.08,3591.36,0.1361,107732.56,4857.95,0.0352,0.1027,0.04,0.1
+AI Engineer,NLP,Medium,2030,forecast,,,94867.8,3601.18,0.1361,111522.41,5356.92,0.0352,0.1027,0.04,0.1
+AI Engineer,Reinforcement Learning,Low,2020,historical,96574.41436464088,3091.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2021,historical,91045.15492990655,3920.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2022,historical,100136.33140540539,3283.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2023,historical,98664.20574162679,3674.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2024,historical,96353.04402325582,3828.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2025,historical,93730.48633879781,2939.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2026,historical,96956.22502336449,3825.0,,,,,,,,,
+AI Engineer,Reinforcement Learning,Low,2027,forecast,,,96598.95,3620.71,0.0049,98508.17,3967.79,0.016,0.0373,0.015,0.03
+AI Engineer,Reinforcement Learning,Low,2028,forecast,,,96696.55,3648.75,0.0049,100084.95,4115.9,0.016,0.0373,0.015,0.03
+AI Engineer,Reinforcement Learning,Low,2029,forecast,,,96794.15,3676.79,0.0049,101686.98,4269.55,0.016,0.0373,0.015,0.03
+AI Engineer,Reinforcement Learning,Low,2030,forecast,,,96891.75,3704.82,0.0049,103314.64,4428.93,0.016,0.0373,0.015,0.03
+Computer Vision Engineer,Analytics,Low,2020,historical,99904.67513953488,3714.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2021,historical,102103.80423280424,3319.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2022,historical,97465.62962962964,3679.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2023,historical,101615.45396551724,3604.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2024,historical,104798.95852534562,3737.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2025,historical,98393.0570657277,3745.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2026,historical,106280.4862200957,3597.0,,,,,,,,,
+Computer Vision Engineer,Analytics,Low,2027,forecast,,,104228.76,3707.71,0.2068,108554.67,3724.87,0.0214,0.0356,0.015,0.03
+Computer Vision Engineer,Analytics,Low,2028,forecast,,,104908.74,3727.68,0.2068,110877.51,3857.29,0.0214,0.0356,0.015,0.03
+Computer Vision Engineer,Analytics,Low,2029,forecast,,,105588.71,3747.64,0.2068,113250.06,3994.42,0.0214,0.0356,0.015,0.03
+Computer Vision Engineer,Analytics,Low,2030,forecast,,,106268.68,3767.61,0.2068,115673.37,4136.43,0.0214,0.0356,0.015,0.03
+Computer Vision Engineer,Computer Vision,Medium,2020,historical,96614.68636597939,3468.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2021,historical,102347.06006849316,4024.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2022,historical,102013.93929752066,4098.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2023,historical,99852.88073394496,3687.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2024,historical,98380.450625,3191.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2025,historical,105098.55440414508,3411.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2026,historical,105000.88675879397,3521.0,,,,,,,,,
+Computer Vision Engineer,Computer Vision,Medium,2027,forecast,,,105190.94,3346.57,0.4188,110166.21,3802.6,0.0492,0.08,0.04,0.1
+Computer Vision Engineer,Computer Vision,Medium,2028,forecast,,,106156.23,3276.07,0.4188,115585.63,4106.72,0.0492,0.08,0.04,0.1
+Computer Vision Engineer,Computer Vision,Medium,2029,forecast,,,107121.52,3205.57,0.4188,121271.66,4435.17,0.0492,0.08,0.04,0.1
+Computer Vision Engineer,Computer Vision,Medium,2030,forecast,,,108086.81,3135.07,0.4188,127237.39,4789.88,0.0492,0.08,0.04,0.1
+Computer Vision Engineer,Forecasting,Low,2020,historical,97557.75520833333,3463.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2021,historical,99828.56545023696,3779.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2022,historical,99262.71356353592,3299.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2023,historical,97457.69438172043,3331.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2024,historical,103979.9394300518,3317.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2025,historical,98301.46448087432,3326.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2026,historical,95105.18947368421,3337.0,,,,,,,,,
+Computer Vision Engineer,Forecasting,Low,2027,forecast,,,97971.24,3226.57,0.0255,96328.39,3391.9,0.0129,0.0165,0.015,0.03
+Computer Vision Engineer,Forecasting,Low,2028,forecast,,,97767.85,3181.36,0.0255,97567.31,3447.69,0.0129,0.0165,0.015,0.03
+Computer Vision Engineer,Forecasting,Low,2029,forecast,,,97564.47,3136.14,0.0255,98822.18,3504.41,0.0129,0.0165,0.015,0.03
+Computer Vision Engineer,Forecasting,Low,2030,forecast,,,97361.09,3090.93,0.0255,100093.18,3562.06,0.0129,0.0165,0.015,0.03
+Computer Vision Engineer,Generative AI,High,2020,historical,99681.1546961326,3082.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2021,historical,99154.22966507178,3709.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2022,historical,102865.75718894009,3813.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2023,historical,107468.59679069767,3929.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2024,historical,97404.45153846154,2782.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2025,historical,101008.2465116279,3753.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2026,historical,100855.55471830987,3637.0,,,,,,,,,
+Computer Vision Engineer,Generative AI,High,2027,forecast,,,101458.27,3632.43,0.0018,107978.66,4462.93,0.0706,0.2271,0.07,0.22
+Computer Vision Engineer,Generative AI,High,2028,forecast,,,101521.49,3658.21,0.0018,115604.84,5476.41,0.0706,0.2271,0.07,0.22
+Computer Vision Engineer,Generative AI,High,2029,forecast,,,101584.7,3684.0,0.0018,123769.63,6720.05,0.0706,0.2271,0.07,0.22
+Computer Vision Engineer,Generative AI,High,2030,forecast,,,101647.91,3709.79,0.0018,132511.08,8246.1,0.0706,0.2271,0.07,0.22
+Computer Vision Engineer,LLM,High,2020,historical,98235.19883040935,3039.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2021,historical,101388.45532828283,3358.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2022,historical,102674.55975728155,3508.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2023,historical,102633.95495495496,3952.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2024,historical,107786.37148780488,3678.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2025,historical,105668.75533333333,3563.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2026,historical,99475.04401442308,3558.0,,,,,,,,,
+Computer Vision Engineer,LLM,High,2027,forecast,,,105036.33,3827.57,0.1622,107059.44,4417.08,0.0762,0.2415,0.07,0.22
+Computer Vision Engineer,LLM,High,2028,forecast,,,105657.47,3903.89,0.1622,115222.1,5483.59,0.0762,0.2415,0.07,0.22
+Computer Vision Engineer,LLM,High,2029,forecast,,,106278.61,3980.21,0.1622,124007.11,6807.6,0.0762,0.2415,0.07,0.22
+Computer Vision Engineer,LLM,High,2030,forecast,,,106899.75,4056.54,0.1622,133461.94,8451.31,0.0762,0.2415,0.07,0.22
+Computer Vision Engineer,MLOps,High,2020,historical,102297.47505319148,3131.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2021,historical,104488.60322649573,4158.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2022,historical,95374.7266751269,3370.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2023,historical,102871.02751295335,3427.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2024,historical,100583.23467171717,3548.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2025,historical,104429.26139810427,3684.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2026,historical,101269.57142857143,3410.0,,,,,,,,,
+Computer Vision Engineer,MLOps,High,2027,forecast,,,101902.86,3542.14,0.0025,108430.09,4162.59,0.0707,0.2207,0.07,0.22
+Computer Vision Engineer,MLOps,High,2028,forecast,,,101974.51,3544.54,0.0025,116096.91,5081.28,0.0707,0.2207,0.07,0.22
+Computer Vision Engineer,MLOps,High,2029,forecast,,,102046.15,3546.93,0.0025,124305.83,6202.73,0.0707,0.2207,0.07,0.22
+Computer Vision Engineer,MLOps,High,2030,forecast,,,102117.8,3549.32,0.0025,133095.18,7571.69,0.0707,0.2207,0.07,0.22
+Computer Vision Engineer,NLP,Medium,2020,historical,101262.66071782178,3769.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2021,historical,100424.08108108108,3214.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2022,historical,101941.0,3451.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2023,historical,101354.35869565218,3327.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2024,historical,99101.74860335195,3190.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2025,historical,99882.85,3304.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2026,historical,100115.90926267281,3870.0,,,,,,,,,
+Computer Vision Engineer,NLP,Medium,2027,forecast,,,99531.52,3478.14,0.3321,103857.62,4264.93,0.0374,0.102,0.04,0.1
+Computer Vision Engineer,NLP,Medium,2028,forecast,,,99268.59,3486.07,0.3321,107739.17,4700.16,0.0374,0.102,0.04,0.1
+Computer Vision Engineer,NLP,Medium,2029,forecast,,,99005.67,3494.0,0.3321,111765.79,5179.8,0.0374,0.102,0.04,0.1
+Computer Vision Engineer,NLP,Medium,2030,forecast,,,98742.74,3501.93,0.3321,115942.9,5708.4,0.0374,0.102,0.04,0.1
+Computer Vision Engineer,Reinforcement Learning,Low,2020,historical,101181.37457207208,3864.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2021,historical,100412.90133507854,3350.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2022,historical,98991.16374269006,3121.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2023,historical,101267.27846354166,3188.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2024,historical,98290.14285714286,3700.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2025,historical,106031.43734741784,3798.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2026,historical,103162.22607981222,3652.0,,,,,,,,,
+Computer Vision Engineer,Reinforcement Learning,Low,2027,forecast,,,103687.88,3644.57,0.2363,105298.18,3791.52,0.0207,0.0382,0.015,0.03
+Computer Vision Engineer,Reinforcement Learning,Low,2028,forecast,,,104276.4,3674.54,0.2363,107478.36,3936.38,0.0207,0.0382,0.015,0.03
+Computer Vision Engineer,Reinforcement Learning,Low,2029,forecast,,,104864.92,3704.5,0.2363,109703.68,4086.77,0.0207,0.0382,0.015,0.03
+Computer Vision Engineer,Reinforcement Learning,Low,2030,forecast,,,105453.44,3734.46,0.2363,111975.08,4242.9,0.0207,0.0382,0.015,0.03
+Data Analyst,Analytics,Low,2020,historical,68207.50684931508,3830.0,,,,,,,,,
+Data Analyst,Analytics,Low,2021,historical,69489.57352941176,3746.0,,,,,,,,,
+Data Analyst,Analytics,Low,2022,historical,69604.82870370371,3674.0,,,,,,,,,
+Data Analyst,Analytics,Low,2023,historical,72746.16184971099,3045.0,,,,,,,,,
+Data Analyst,Analytics,Low,2024,historical,68285.65384615384,3772.0,,,,,,,,,
+Data Analyst,Analytics,Low,2025,historical,71213.47619047618,3242.0,,,,,,,,,
+Data Analyst,Analytics,Low,2026,historical,70517.62087912088,3058.0,,,,,,,,,
+Data Analyst,Analytics,Low,2027,forecast,,,71303.4,3020.14,0.1849,71898.92,3034.53,0.0196,-0.0077,0.015,0.03
+Data Analyst,Analytics,Low,2028,forecast,,,71626.93,2904.93,0.1849,73307.28,3011.23,0.0196,-0.0077,0.015,0.03
+Data Analyst,Analytics,Low,2029,forecast,,,71950.47,2789.71,0.1849,74743.22,2988.12,0.0196,-0.0077,0.015,0.03
+Data Analyst,Analytics,Low,2030,forecast,,,72274.0,2674.5,0.1849,76207.29,2965.18,0.0196,-0.0077,0.015,0.03
+Data Analyst,Computer Vision,Medium,2020,historical,69823.43,3180.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2021,historical,70670.04,3474.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2022,historical,68292.78787878787,3603.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2023,historical,70087.77157360406,3383.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2024,historical,71895.46285714286,3221.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2025,historical,72942.55721393035,3576.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2026,historical,71651.60089686098,3756.0,,,,,,,,,
+Data Analyst,Computer Vision,Medium,2027,forecast,,,72713.7,3677.57,0.465,75004.53,4186.96,0.0468,0.1147,0.04,0.1
+Data Analyst,Computer Vision,Medium,2028,forecast,,,73200.56,3732.93,0.465,78514.36,4667.36,0.0468,0.1147,0.04,0.1
+Data Analyst,Computer Vision,Medium,2029,forecast,,,73687.43,3788.29,0.465,82188.43,5202.89,0.0468,0.1147,0.04,0.1
+Data Analyst,Computer Vision,Medium,2030,forecast,,,74174.29,3843.64,0.465,86034.43,5799.86,0.0468,0.1147,0.04,0.1
+Data Analyst,Forecasting,Low,2020,historical,68961.71186440678,3098.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2021,historical,69132.4502617801,3570.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2022,historical,72135.51243781095,3368.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2023,historical,66780.14136125654,3346.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2024,historical,71652.46226415095,3820.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2025,historical,68978.02094240837,3493.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2026,historical,65782.42929292929,3256.0,,,,,,,,,
+Data Analyst,Forecasting,Low,2027,forecast,,,67584.71,3531.86,0.1186,66400.25,3381.25,0.0094,0.0385,0.015,0.03
+Data Analyst,Forecasting,Low,2028,forecast,,,67215.79,3559.43,0.1186,67023.86,3511.32,0.0094,0.0385,0.015,0.03
+Data Analyst,Forecasting,Low,2029,forecast,,,66846.87,3587.0,0.1186,67653.34,3646.39,0.0094,0.0385,0.015,0.03
+Data Analyst,Forecasting,Low,2030,forecast,,,66477.95,3614.57,0.1186,68288.73,3786.66,0.0094,0.0385,0.015,0.03
+Data Analyst,Generative AI,High,2020,historical,69536.22459893048,3280.0,,,,,,,,,
+Data Analyst,Generative AI,High,2021,historical,65939.24056603774,3729.0,,,,,,,,,
+Data Analyst,Generative AI,High,2022,historical,68724.39459459459,3358.0,,,,,,,,,
+Data Analyst,Generative AI,High,2023,historical,70210.03980099503,3500.0,,,,,,,,,
+Data Analyst,Generative AI,High,2024,historical,69364.66,3435.0,,,,,,,,,
+Data Analyst,Generative AI,High,2025,historical,69793.74556213018,2902.0,,,,,,,,,
+Data Analyst,Generative AI,High,2026,historical,70944.89444444445,3248.0,,,,,,,,,
+Data Analyst,Generative AI,High,2027,forecast,,,71012.64,3111.29,0.3664,76360.15,3902.81,0.0763,0.2016,0.07,0.22
+Data Analyst,Generative AI,High,2028,forecast,,,71461.76,3051.54,0.3664,82188.76,4689.63,0.0763,0.2016,0.07,0.22
+Data Analyst,Generative AI,High,2029,forecast,,,71910.88,2991.79,0.3664,88462.27,5635.08,0.0763,0.2016,0.07,0.22
+Data Analyst,Generative AI,High,2030,forecast,,,72359.99,2932.04,0.3664,95214.64,6771.14,0.0763,0.2016,0.07,0.22
+Data Analyst,LLM,High,2020,historical,68412.27488151658,3719.0,,,,,,,,,
+Data Analyst,LLM,High,2021,historical,67902.72985781991,3761.0,,,,,,,,,
+Data Analyst,LLM,High,2022,historical,69200.90625,3296.0,,,,,,,,,
+Data Analyst,LLM,High,2023,historical,67437.87817258883,3509.0,,,,,,,,,
+Data Analyst,LLM,High,2024,historical,67893.95192307692,3783.0,,,,,,,,,
+Data Analyst,LLM,High,2025,historical,67230.14705882352,4338.0,,,,,,,,,
+Data Analyst,LLM,High,2026,historical,70185.61578947368,3293.0,,,,,,,,,
+Data Analyst,LLM,High,2027,forecast,,,68704.49,3723.14,0.0386,75193.89,4030.42,0.0714,0.2239,0.07,0.22
+Data Analyst,LLM,High,2028,forecast,,,68799.77,3736.11,0.0386,80559.54,4932.99,0.0714,0.2239,0.07,0.22
+Data Analyst,LLM,High,2029,forecast,,,68895.05,3749.07,0.0386,86308.08,6037.66,0.0714,0.2239,0.07,0.22
+Data Analyst,LLM,High,2030,forecast,,,68990.33,3762.04,0.0386,92466.81,7389.72,0.0714,0.2239,0.07,0.22
+Data Analyst,MLOps,High,2020,historical,68656.71195652174,3233.0,,,,,,,,,
+Data Analyst,MLOps,High,2021,historical,70083.81481481482,3241.0,,,,,,,,,
+Data Analyst,MLOps,High,2022,historical,67160.36813186813,3020.0,,,,,,,,,
+Data Analyst,MLOps,High,2023,historical,71831.42786069652,3299.0,,,,,,,,,
+Data Analyst,MLOps,High,2024,historical,70912.10309278351,3461.0,,,,,,,,,
+Data Analyst,MLOps,High,2025,historical,68675.08045977012,3174.0,,,,,,,,,
+Data Analyst,MLOps,High,2026,historical,69945.80213903743,3277.0,,,,,,,,,
+Data Analyst,MLOps,High,2027,forecast,,,70295.26,3306.29,0.0558,75013.49,4013.62,0.0725,0.2248,0.07,0.22
+Data Analyst,MLOps,High,2028,forecast,,,70466.75,3321.96,0.0558,80448.34,4915.82,0.0725,0.2248,0.07,0.22
+Data Analyst,MLOps,High,2029,forecast,,,70638.23,3337.64,0.0558,86276.96,6020.82,0.0725,0.2248,0.07,0.22
+Data Analyst,MLOps,High,2030,forecast,,,70809.71,3353.32,0.0558,92527.87,7374.2,0.0725,0.2248,0.07,0.22
+Data Analyst,NLP,Medium,2020,historical,69724.10638297872,3339.0,,,,,,,,,
+Data Analyst,NLP,Medium,2021,historical,67694.33689839572,3346.0,,,,,,,,,
+Data Analyst,NLP,Medium,2022,historical,65370.532608695656,3147.0,,,,,,,,,
+Data Analyst,NLP,Medium,2023,historical,72616.66310160428,3165.0,,,,,,,,,
+Data Analyst,NLP,Medium,2024,historical,70242.2264957265,4009.0,,,,,,,,,
+Data Analyst,NLP,Medium,2025,historical,66965.53398058252,3520.0,,,,,,,,,
+Data Analyst,NLP,Medium,2026,historical,68150.80748663102,3317.0,,,,,,,,,
+Data Analyst,NLP,Medium,2027,forecast,,,68494.06,3569.57,0.0018,70830.2,3689.56,0.0393,0.1123,0.04,0.1
+Data Analyst,NLP,Medium,2028,forecast,,,68447.42,3610.43,0.0018,73614.94,4103.96,0.0393,0.1123,0.04,0.1
+Data Analyst,NLP,Medium,2029,forecast,,,68400.78,3651.29,0.0018,76509.16,4564.91,0.0393,0.1123,0.04,0.1
+Data Analyst,NLP,Medium,2030,forecast,,,68354.15,3692.14,0.0018,79517.18,5077.62,0.0393,0.1123,0.04,0.1
+Data Analyst,Reinforcement Learning,Low,2020,historical,67653.52631578948,3739.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2021,historical,70176.00495049504,3400.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2022,historical,70724.16740088105,4097.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2023,historical,71414.34928229665,3520.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2024,historical,71028.83783783784,3348.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2025,historical,69703.82233502538,3454.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2026,historical,68515.99103139013,4094.0,,,,,,,,,
+Data Analyst,Reinforcement Learning,Low,2027,forecast,,,70166.34,3725.14,0.012,69613.29,4231.96,0.016,0.0337,0.015,0.03
+Data Analyst,Reinforcement Learning,Low,2028,forecast,,,70235.9,3740.29,0.012,70728.17,4374.57,0.016,0.0337,0.015,0.03
+Data Analyst,Reinforcement Learning,Low,2029,forecast,,,70305.46,3755.43,0.012,71860.89,4521.99,0.016,0.0337,0.015,0.03
+Data Analyst,Reinforcement Learning,Low,2030,forecast,,,70375.02,3770.57,0.012,73011.76,4674.38,0.016,0.0337,0.015,0.03
+Data Scientist,Analytics,Low,2020,historical,99328.01178571428,3301.0,,,,,,,,,
+Data Scientist,Analytics,Low,2021,historical,95361.76439790576,3254.0,,,,,,,,,
+Data Scientist,Analytics,Low,2022,historical,95391.6,3347.0,,,,,,,,,
+Data Scientist,Analytics,Low,2023,historical,91849.1382142857,3091.0,,,,,,,,,
+Data Scientist,Analytics,Low,2024,historical,92443.73869346734,3562.0,,,,,,,,,
+Data Scientist,Analytics,Low,2025,historical,93235.9379468599,3651.0,,,,,,,,,
+Data Scientist,Analytics,Low,2026,historical,96368.76035175878,3285.0,,,,,,,,,
+Data Scientist,Analytics,Low,2027,forecast,,,92557.38,3493.14,0.229,97240.1,3417.87,0.009,0.0404,0.015,0.03
+Data Scientist,Analytics,Low,2028,forecast,,,91983.2,3527.46,0.229,98119.33,3556.12,0.009,0.0404,0.015,0.03
+Data Scientist,Analytics,Low,2029,forecast,,,91409.01,3561.79,0.229,99006.5,3699.95,0.009,0.0404,0.015,0.03
+Data Scientist,Analytics,Low,2030,forecast,,,90834.82,3596.11,0.229,99901.69,3849.61,0.009,0.0404,0.015,0.03
+Data Scientist,Computer Vision,Medium,2020,historical,87287.74481042655,3651.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2021,historical,95404.68691588785,3726.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2022,historical,98012.83995515695,3890.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2023,historical,93456.3324234694,3472.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2024,historical,91876.06951871658,3288.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2025,historical,92974.13004484306,3833.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2026,historical,97771.90301630435,3353.0,,,,,,,,,
+Data Scientist,Computer Vision,Medium,2027,forecast,,,96748.33,3418.71,0.18,102413.3,3642.51,0.0475,0.0863,0.04,0.1
+Data Scientist,Computer Vision,Medium,2028,forecast,,,97478.85,3372.93,0.18,107275.03,3957.03,0.0475,0.0863,0.04,0.1
+Data Scientist,Computer Vision,Medium,2029,forecast,,,98209.37,3327.14,0.18,112367.56,4298.7,0.0475,0.0863,0.04,0.1
+Data Scientist,Computer Vision,Medium,2030,forecast,,,98939.89,3281.36,0.18,117701.84,4669.87,0.0475,0.0863,0.04,0.1
+Data Scientist,Forecasting,Low,2020,historical,97176.19007281555,3524.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2021,historical,90204.68732432432,3401.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2022,historical,93912.07103825136,2943.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2023,historical,86768.76744186046,3646.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2024,historical,92082.12365591398,3318.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2025,historical,99155.5101010101,3548.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2026,historical,91696.46153846153,3446.0,,,,,,,,,
+Data Scientist,Forecasting,Low,2027,forecast,,,92946.9,3465.86,0.0,93058.78,3564.92,0.0149,0.0345,0.015,0.03
+Data Scientist,Forecasting,Low,2028,forecast,,,92933.78,3481.39,0.0,94441.35,3687.94,0.0149,0.0345,0.015,0.03
+Data Scientist,Forecasting,Low,2029,forecast,,,92920.65,3496.93,0.0,95844.45,3815.2,0.0149,0.0345,0.015,0.03
+Data Scientist,Forecasting,Low,2030,forecast,,,92907.53,3512.46,0.0,97268.4,3946.86,0.0149,0.0345,0.015,0.03
+Data Scientist,Generative AI,High,2020,historical,91999.42211055277,3424.0,,,,,,,,,
+Data Scientist,Generative AI,High,2021,historical,96733.31722477065,3876.0,,,,,,,,,
+Data Scientist,Generative AI,High,2022,historical,96531.7422195122,3833.0,,,,,,,,,
+Data Scientist,Generative AI,High,2023,historical,91007.42863636365,2977.0,,,,,,,,,
+Data Scientist,Generative AI,High,2024,historical,96102.31790816326,3733.0,,,,,,,,,
+Data Scientist,Generative AI,High,2025,historical,90829.12270731707,3702.0,,,,,,,,,
+Data Scientist,Generative AI,High,2026,historical,94660.57549065421,3920.0,,,,,,,,,
+Data Scientist,Generative AI,High,2027,forecast,,,93372.8,3786.43,0.0155,101134.87,4819.54,0.0684,0.2295,0.07,0.22
+Data Scientist,Generative AI,High,2028,forecast,,,93220.85,3823.57,0.0155,108051.98,5925.51,0.0684,0.2295,0.07,0.22
+Data Scientist,Generative AI,High,2029,forecast,,,93068.91,3860.71,0.0155,115442.19,7285.27,0.0684,0.2295,0.07,0.22
+Data Scientist,Generative AI,High,2030,forecast,,,92916.97,3897.86,0.0155,123337.84,8957.05,0.0684,0.2295,0.07,0.22
+Data Scientist,LLM,High,2020,historical,94350.78534031413,3382.0,,,,,,,,,
+Data Scientist,LLM,High,2021,historical,90408.52450980392,3596.0,,,,,,,,,
+Data Scientist,LLM,High,2022,historical,91667.43147208123,3332.0,,,,,,,,,
+Data Scientist,LLM,High,2023,historical,91134.66666666667,3019.0,,,,,,,,,
+Data Scientist,LLM,High,2024,historical,93132.09956709956,3930.0,,,,,,,,,
+Data Scientist,LLM,High,2025,historical,100032.09924870468,3398.0,,,,,,,,,
+Data Scientist,LLM,High,2026,historical,91923.81484513274,3960.0,,,,,,,,,
+Data Scientist,LLM,High,2027,forecast,,,95154.33,3793.29,0.1006,98838.16,4900.34,0.0752,0.2375,0.07,0.22
+Data Scientist,LLM,High,2028,forecast,,,95634.01,3862.43,0.1006,106272.58,6063.98,0.0752,0.2375,0.07,0.22
+Data Scientist,LLM,High,2029,forecast,,,96113.68,3931.57,0.1006,114266.21,7503.93,0.0752,0.2375,0.07,0.22
+Data Scientist,LLM,High,2030,forecast,,,96593.36,4000.71,0.1006,122861.11,9285.82,0.0752,0.2375,0.07,0.22
+Data Scientist,MLOps,High,2020,historical,96266.01224431819,2973.0,,,,,,,,,
+Data Scientist,MLOps,High,2021,historical,97149.86927230048,3828.0,,,,,,,,,
+Data Scientist,MLOps,High,2022,historical,99066.48718579236,3214.0,,,,,,,,,
+Data Scientist,MLOps,High,2023,historical,99985.46276595745,3041.0,,,,,,,,,
+Data Scientist,MLOps,High,2024,historical,97436.89449115045,3849.0,,,,,,,,,
+Data Scientist,MLOps,High,2025,historical,89974.60174876847,3513.0,,,,,,,,,
+Data Scientist,MLOps,High,2026,historical,87993.64,3151.0,,,,,,,,,
+Data Scientist,MLOps,High,2027,forecast,,,89582.25,3444.0,0.4691,92696.15,3863.47,0.0534,0.2261,0.07,0.22
+Data Scientist,MLOps,High,2028,forecast,,,88125.2,3463.25,0.4691,97649.97,4737.04,0.0534,0.2261,0.07,0.22
+Data Scientist,MLOps,High,2029,forecast,,,86668.16,3482.5,0.4691,102868.53,5808.12,0.0534,0.2261,0.07,0.22
+Data Scientist,MLOps,High,2030,forecast,,,85211.11,3501.75,0.4691,108365.98,7121.39,0.0534,0.2261,0.07,0.22
+Data Scientist,NLP,Medium,2020,historical,94019.3595505618,3109.0,,,,,,,,,
+Data Scientist,NLP,Medium,2021,historical,91115.58293838863,3715.0,,,,,,,,,
+Data Scientist,NLP,Medium,2022,historical,97911.75129533678,3276.0,,,,,,,,,
+Data Scientist,NLP,Medium,2023,historical,95966.17127071823,3161.0,,,,,,,,,
+Data Scientist,NLP,Medium,2024,historical,90866.84102564103,3512.0,,,,,,,,,
+Data Scientist,NLP,Medium,2025,historical,89950.54787234042,3416.0,,,,,,,,,
+Data Scientist,NLP,Medium,2026,historical,99275.98557692308,3485.0,,,,,,,,,
+Data Scientist,NLP,Medium,2027,forecast,,,95071.59,3491.43,0.018,103475.41,3860.86,0.0423,0.1078,0.04,0.1
+Data Scientist,NLP,Medium,2028,forecast,,,95299.98,3518.79,0.018,107852.48,4277.25,0.0423,0.1078,0.04,0.1
+Data Scientist,NLP,Medium,2029,forecast,,,95528.37,3546.14,0.018,112414.7,4738.55,0.0423,0.1078,0.04,0.1
+Data Scientist,NLP,Medium,2030,forecast,,,95756.76,3573.5,0.018,117169.9,5249.6,0.0423,0.1078,0.04,0.1
+Data Scientist,Reinforcement Learning,Low,2020,historical,95098.26373626373,3030.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2021,historical,89176.13376847291,3554.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2022,historical,94575.995215311,3606.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2023,historical,96588.83868055556,3865.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2024,historical,94127.06480295568,3633.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2025,historical,91953.59315165877,3772.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2026,historical,92962.08542713568,3368.0,,,,,,,,,
+Data Scientist,Reinforcement Learning,Low,2027,forecast,,,93311.35,3757.86,0.0017,94310.0,3521.79,0.0145,0.0457,0.015,0.03
+Data Scientist,Reinforcement Learning,Low,2028,forecast,,,93264.83,3810.61,0.0017,95677.45,3682.6,0.0145,0.0457,0.015,0.03
+Data Scientist,Reinforcement Learning,Low,2029,forecast,,,93218.31,3863.36,0.0017,97064.74,3850.76,0.0145,0.0457,0.015,0.03
+Data Scientist,Reinforcement Learning,Low,2030,forecast,,,93171.79,3916.11,0.0017,98472.14,4026.59,0.0145,0.0457,0.015,0.03
+Machine Learning Engineer,Analytics,Low,2020,historical,102676.97986910996,3246.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2021,historical,101022.735,3414.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2022,historical,103178.41105726872,3952.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2023,historical,102811.35995283019,3836.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2024,historical,100834.50078282828,3542.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2025,historical,103335.4946923077,3387.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2026,historical,103303.66280821919,4016.0,,,,,,,,,
+Machine Learning Engineer,Analytics,Low,2027,forecast,,,103046.4,3891.29,0.09,105001.85,4202.41,0.0164,0.0464,0.015,0.03
+Machine Learning Engineer,Analytics,Low,2028,forecast,,,103195.03,3957.21,0.09,106727.95,4397.47,0.0164,0.0464,0.015,0.03
+Machine Learning Engineer,Analytics,Low,2029,forecast,,,103343.66,4023.14,0.09,108482.43,4601.58,0.0164,0.0464,0.015,0.03
+Machine Learning Engineer,Analytics,Low,2030,forecast,,,103492.29,4089.07,0.09,110265.74,4815.17,0.0164,0.0464,0.015,0.03
+Machine Learning Engineer,Computer Vision,Medium,2020,historical,107175.77921621622,3227.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2021,historical,100209.41929577464,3796.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2022,historical,106422.18975,3170.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2023,historical,105122.04101648352,3261.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2024,historical,101999.66746153847,3296.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2025,historical,98366.76403381643,3641.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2026,historical,105288.7118,4022.0,,,,,,,,,
+Machine Learning Engineer,Computer Vision,Medium,2027,forecast,,,101545.08,3802.0,0.1006,109008.51,4502.81,0.0353,0.1195,0.04,0.1
+Machine Learning Engineer,Computer Vision,Medium,2028,forecast,,,101053.33,3880.61,0.1006,112859.72,5041.09,0.0353,0.1195,0.04,0.1
+Machine Learning Engineer,Computer Vision,Medium,2029,forecast,,,100561.57,3959.21,0.1006,116847.0,5643.73,0.0353,0.1195,0.04,0.1
+Machine Learning Engineer,Computer Vision,Medium,2030,forecast,,,100069.82,4037.82,0.1006,120975.15,6318.4,0.0353,0.1195,0.04,0.1
+Machine Learning Engineer,Forecasting,Low,2020,historical,105564.56681818182,3666.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2021,historical,104331.11426470587,3566.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2022,historical,99408.14297560975,3605.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2023,historical,101937.50147619047,3600.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2024,historical,97580.8578680203,3498.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2025,historical,94963.98421052631,3404.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2026,historical,101399.84654999999,3677.0,,,,,,,,,
+Machine Learning Engineer,Forecasting,Low,2027,forecast,,,96018.62,3516.86,0.4693,101740.28,3773.1,0.0034,0.0261,0.015,0.03
+Machine Learning Engineer,Forecasting,Low,2028,forecast,,,94838.05,3502.64,0.4693,102081.86,3871.7,0.0034,0.0261,0.015,0.03
+Machine Learning Engineer,Forecasting,Low,2029,forecast,,,93657.49,3488.43,0.4693,102424.59,3972.89,0.0034,0.0261,0.015,0.03
+Machine Learning Engineer,Forecasting,Low,2030,forecast,,,92476.93,3474.21,0.4693,102768.47,4076.72,0.0034,0.0261,0.015,0.03
+Machine Learning Engineer,Generative AI,High,2020,historical,103581.52458333333,3756.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2021,historical,107168.200775,3311.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2022,historical,103404.010775,3477.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2023,historical,98946.9379842932,3329.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2024,historical,104018.91183962264,3672.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2025,historical,100651.79552763818,3620.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2026,historical,105749.39883886256,3742.0,,,,,,,,,
+Machine Learning Engineer,Generative AI,High,2027,forecast,,,102515.21,3668.29,0.0263,112940.63,4592.78,0.068,0.2274,0.07,0.22
+Machine Learning Engineer,Generative AI,High,2028,forecast,,,102303.99,3695.82,0.0263,120620.89,5636.98,0.068,0.2274,0.07,0.22
+Machine Learning Engineer,Generative AI,High,2029,forecast,,,102092.76,3723.36,0.0263,128823.42,6918.6,0.068,0.2274,0.07,0.22
+Machine Learning Engineer,Generative AI,High,2030,forecast,,,101881.54,3750.89,0.0263,137583.75,8491.6,0.068,0.2274,0.07,0.22
+Machine Learning Engineer,LLM,High,2020,historical,102767.48888888888,3911.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2021,historical,99186.69534482759,3684.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2022,historical,97443.46967336684,3457.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2023,historical,98211.67475728155,3570.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2024,historical,99537.20512820513,3440.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2025,historical,105564.58961538461,2963.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2026,historical,100185.20812182741,3445.0,,,,,,,,,
+Machine Learning Engineer,LLM,High,2027,forecast,,,101428.43,3087.57,0.0375,107451.84,4100.86,0.0725,0.1904,0.07,0.22
+Machine Learning Engineer,LLM,High,2028,forecast,,,101682.1,2985.54,0.0375,115245.53,4881.59,0.0725,0.1904,0.07,0.22
+Machine Learning Engineer,LLM,High,2029,forecast,,,101935.76,2883.5,0.0375,123604.52,5810.96,0.0725,0.1904,0.07,0.22
+Machine Learning Engineer,LLM,High,2030,forecast,,,102189.43,2781.46,0.0375,132569.8,6917.26,0.0725,0.1904,0.07,0.22
+Machine Learning Engineer,MLOps,High,2020,historical,97964.81887096773,3049.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2021,historical,100303.75205583757,3677.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2022,historical,101227.18419724771,3678.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2023,historical,104234.50678733032,3883.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2024,historical,107127.86417073171,3560.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2025,historical,104678.14765402843,3507.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2026,historical,104765.26561320754,3961.0,,,,,,,,,
+Machine Learning Engineer,MLOps,High,2027,forecast,,,107907.48,3941.86,0.729,113350.65,4913.78,0.0819,0.2405,0.07,0.22
+Machine Learning Engineer,MLOps,High,2028,forecast,,,109159.29,4023.21,0.729,122639.59,6095.73,0.0819,0.2405,0.07,0.22
+Machine Learning Engineer,MLOps,High,2029,forecast,,,110411.11,4104.57,0.729,132689.76,7562.0,0.0819,0.2405,0.07,0.22
+Machine Learning Engineer,MLOps,High,2030,forecast,,,111662.92,4185.93,0.729,143563.52,9380.96,0.0819,0.2405,0.07,0.22
+Machine Learning Engineer,NLP,Medium,2020,historical,101498.2827393617,3341.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2021,historical,99694.44559585492,3433.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2022,historical,98240.88967171717,3482.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2023,historical,99848.37313432836,3437.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2024,historical,97691.51441025641,3421.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2025,historical,103216.73038265307,3548.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2026,historical,105394.39688405798,3687.0,,,,,,,,,
+Machine Learning Engineer,NLP,Medium,2027,forecast,,,103395.45,3650.86,0.258,110259.58,4098.81,0.0462,0.1117,0.04,0.1
+Machine Learning Engineer,NLP,Medium,2028,forecast,,,104044.86,3693.96,0.258,115349.36,4556.61,0.0462,0.1117,0.04,0.1
+Machine Learning Engineer,NLP,Medium,2029,forecast,,,104694.28,3737.07,0.258,120674.08,5065.55,0.0462,0.1117,0.04,0.1
+Machine Learning Engineer,NLP,Medium,2030,forecast,,,105343.69,3780.18,0.258,126244.61,5631.32,0.0462,0.1117,0.04,0.1
+Machine Learning Engineer,Reinforcement Learning,Low,2020,historical,102156.16336633664,3602.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2021,historical,99274.64615384616,3495.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2022,historical,102051.75647668394,3301.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2023,historical,104047.25221311476,3002.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2024,historical,101919.18071428571,3483.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2025,historical,103578.08888601037,3218.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2026,historical,100325.685775,3732.0,,,,,,,,,
+Machine Learning Engineer,Reinforcement Learning,Low,2027,forecast,,,102333.66,3407.29,0.0188,101937.1,3844.6,0.0161,0.0302,0.015,0.03
+Machine Learning Engineer,Reinforcement Learning,Low,2028,forecast,,,102440.2,3407.93,0.0188,103574.4,3960.6,0.0161,0.0302,0.015,0.03
+Machine Learning Engineer,Reinforcement Learning,Low,2029,forecast,,,102546.73,3408.57,0.0188,105238.0,4080.1,0.0161,0.0302,0.015,0.03
+Machine Learning Engineer,Reinforcement Learning,Low,2030,forecast,,,102653.26,3409.21,0.0188,106928.32,4203.21,0.0161,0.0302,0.015,0.03
+NLP Engineer,Analytics,Low,2020,historical,99143.29081632652,3407.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2021,historical,97250.20075609756,3654.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2022,historical,98784.98078125,3360.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2023,historical,96169.64896186441,4120.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2024,historical,99385.05846666667,4001.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2025,historical,101505.09916184972,3083.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2026,historical,97243.81232984294,3300.0,,,,,,,,,
+NLP Engineer,Analytics,Low,2027,forecast,,,98984.79,3443.29,0.022,98824.31,3369.64,0.0163,0.0211,0.015,0.03
+NLP Engineer,Analytics,Low,2028,forecast,,,99106.63,3413.93,0.022,100430.49,3440.76,0.0163,0.0211,0.015,0.03
+NLP Engineer,Analytics,Low,2029,forecast,,,99228.46,3384.57,0.022,102062.78,3513.37,0.0163,0.0211,0.015,0.03
+NLP Engineer,Analytics,Low,2030,forecast,,,99350.3,3355.21,0.022,103721.59,3587.51,0.0163,0.0211,0.015,0.03
+NLP Engineer,Computer Vision,Medium,2020,historical,96907.96116504855,3528.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2021,historical,96265.78801843317,3875.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2022,historical,95965.90126865673,3685.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2023,historical,100120.34753807106,3542.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2024,historical,97328.98777272727,3760.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2025,historical,97216.23957142857,3818.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2026,historical,100629.8084375,3730.0,,,,,,,,,
+NLP Engineer,Computer Vision,Medium,2027,forecast,,,99837.8,3786.43,0.3634,105170.34,4123.25,0.0451,0.1054,0.04,0.1
+NLP Engineer,Computer Vision,Medium,2028,forecast,,,100353.14,3806.68,0.3634,109915.75,4557.96,0.0451,0.1054,0.04,0.1
+NLP Engineer,Computer Vision,Medium,2029,forecast,,,100868.48,3826.93,0.3634,114875.27,5038.5,0.0451,0.1054,0.04,0.1
+NLP Engineer,Computer Vision,Medium,2030,forecast,,,101383.82,3847.18,0.3634,120058.58,5569.7,0.0451,0.1054,0.04,0.1
+NLP Engineer,Forecasting,Low,2020,historical,102480.02785067874,3809.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2021,historical,99466.13744075829,3624.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2022,historical,99581.85632183908,3153.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2023,historical,102793.06512376238,3420.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2024,historical,102195.20730046948,3642.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2025,historical,100239.27173913043,3307.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2026,historical,99068.2358490566,3437.0,,,,,,,,,
+NLP Engineer,Forecasting,Low,2027,forecast,,,99964.01,3304.43,0.0861,100337.27,3495.07,0.0128,0.0169,0.015,0.03
+NLP Engineer,Forecasting,Low,2028,forecast,,,99747.02,3259.39,0.0861,101622.56,3554.13,0.0128,0.0169,0.015,0.03
+NLP Engineer,Forecasting,Low,2029,forecast,,,99530.02,3214.36,0.0861,102924.31,3614.18,0.0128,0.0169,0.015,0.03
+NLP Engineer,Forecasting,Low,2030,forecast,,,99313.03,3169.32,0.0861,104242.74,3675.25,0.0128,0.0169,0.015,0.03
+NLP Engineer,Generative AI,High,2020,historical,100787.44771889402,3711.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2021,historical,101465.95782258065,3377.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2022,historical,94913.85869565218,3187.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2023,historical,98913.27541450778,3586.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2024,historical,103837.0407486631,3206.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2025,historical,101282.65543814434,3461.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2026,historical,103457.38288288288,3899.0,,,,,,,,,
+NLP Engineer,Generative AI,High,2027,forecast,,,103032.0,3596.86,0.1781,111291.06,4783.6,0.0757,0.2269,0.07,0.22
+NLP Engineer,Generative AI,High,2028,forecast,,,103623.66,3623.68,0.1781,119717.89,5868.9,0.0757,0.2269,0.07,0.22
+NLP Engineer,Generative AI,High,2029,forecast,,,104215.31,3650.5,0.1781,128782.79,7200.43,0.0757,0.2269,0.07,0.22
+NLP Engineer,Generative AI,High,2030,forecast,,,104806.97,3677.32,0.1781,138534.07,8834.06,0.0757,0.2269,0.07,0.22
+NLP Engineer,LLM,High,2020,historical,105832.50704301074,3389.0,,,,,,,,,
+NLP Engineer,LLM,High,2021,historical,102805.4928835979,3370.0,,,,,,,,,
+NLP Engineer,LLM,High,2022,historical,96165.76036057693,3713.0,,,,,,,,,
+NLP Engineer,LLM,High,2023,historical,103837.51794117647,3933.0,,,,,,,,,
+NLP Engineer,LLM,High,2024,historical,95718.10849056604,3606.0,,,,,,,,,
+NLP Engineer,LLM,High,2025,historical,100300.85283163266,3477.0,,,,,,,,,
+NLP Engineer,LLM,High,2026,historical,102532.97827137547,4737.0,,,,,,,,,
+NLP Engineer,LLM,High,2027,forecast,,,98833.96,4339.43,0.0949,109161.88,5927.39,0.0647,0.2513,0.07,0.22
+NLP Engineer,LLM,High,2028,forecast,,,98285.55,4487.68,0.0949,116219.34,7416.92,0.0647,0.2513,0.07,0.22
+NLP Engineer,LLM,High,2029,forecast,,,97737.13,4635.93,0.0949,123733.08,9280.76,0.0647,0.2513,0.07,0.22
+NLP Engineer,LLM,High,2030,forecast,,,97188.72,4784.18,0.0949,131732.59,11612.98,0.0647,0.2513,0.07,0.22
+NLP Engineer,MLOps,High,2020,historical,103027.99453551913,3161.0,,,,,,,,,
+NLP Engineer,MLOps,High,2021,historical,97942.57075471699,3703.0,,,,,,,,,
+NLP Engineer,MLOps,High,2022,historical,99691.37320574162,3331.0,,,,,,,,,
+NLP Engineer,MLOps,High,2023,historical,107663.19597619049,3721.0,,,,,,,,,
+NLP Engineer,MLOps,High,2024,historical,98616.2233502538,3278.0,,,,,,,,,
+NLP Engineer,MLOps,High,2025,historical,98804.93027472527,3329.0,,,,,,,,,
+NLP Engineer,MLOps,High,2026,historical,97624.1522979798,3451.0,,,,,,,,,
+NLP Engineer,MLOps,High,2027,forecast,,,98258.35,3434.71,0.1087,103902.06,4212.68,0.0643,0.2207,0.07,0.22
+NLP Engineer,MLOps,High,2028,forecast,,,97702.57,3437.18,0.1087,110583.68,5142.48,0.0643,0.2207,0.07,0.22
+NLP Engineer,MLOps,High,2029,forecast,,,97146.79,3439.64,0.1087,117694.97,6277.5,0.0643,0.2207,0.07,0.22
+NLP Engineer,MLOps,High,2030,forecast,,,96591.0,3442.11,0.1087,125263.57,7663.03,0.0643,0.2207,0.07,0.22
+NLP Engineer,NLP,Medium,2020,historical,97403.15217391304,3050.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2021,historical,108883.64182051283,3325.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2022,historical,104340.24147058824,3142.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2023,historical,96567.41538461538,3208.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2024,historical,102548.43894329897,3187.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2025,historical,98593.011,3562.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2026,historical,97552.71621621621,3951.0,,,,,,,,,
+NLP Engineer,NLP,Medium,2027,forecast,,,97709.18,3806.71,0.1365,100671.81,4461.17,0.032,0.1291,0.04,0.1
+NLP Engineer,NLP,Medium,2028,forecast,,,96926.16,3921.79,0.1365,103890.64,5037.22,0.032,0.1291,0.04,0.1
+NLP Engineer,NLP,Medium,2029,forecast,,,96143.15,4036.86,0.1365,107212.38,5687.65,0.032,0.1291,0.04,0.1
+NLP Engineer,NLP,Medium,2030,forecast,,,95360.14,4151.93,0.1365,110640.32,6422.06,0.032,0.1291,0.04,0.1
+NLP Engineer,Reinforcement Learning,Low,2020,historical,95329.89767441861,3653.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2021,historical,103943.31963265306,4385.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2022,historical,96045.52315920399,3484.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2023,historical,97195.36633663367,3477.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2024,historical,93758.52173913043,3158.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2025,historical,99726.50958536586,3617.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2026,historical,94498.32212053573,3874.0,,,,,,,,,
+NLP Engineer,Reinforcement Learning,Low,2027,forecast,,,95326.02,3492.71,0.0823,95443.82,3947.4,0.01,0.0189,0.015,0.03
+NLP Engineer,Reinforcement Learning,Low,2028,forecast,,,94854.04,3449.89,0.0823,96398.78,4022.19,0.01,0.0189,0.015,0.03
+NLP Engineer,Reinforcement Learning,Low,2029,forecast,,,94382.06,3407.07,0.0823,97363.29,4098.39,0.01,0.0189,0.015,0.03
+NLP Engineer,Reinforcement Learning,Low,2030,forecast,,,93910.09,3364.25,0.0823,98337.45,4176.04,0.01,0.0189,0.015,0.03
+Research Scientist,Analytics,Low,2020,historical,111336.80786008229,4382.0,,,,,,,,,
+Research Scientist,Analytics,Low,2021,historical,109913.4151758794,3395.0,,,,,,,,,
+Research Scientist,Analytics,Low,2022,historical,108959.8484057971,3496.0,,,,,,,,,
+Research Scientist,Analytics,Low,2023,historical,107022.44014150943,3822.0,,,,,,,,,
+Research Scientist,Analytics,Low,2024,historical,112775.45301587302,3329.0,,,,,,,,,
+Research Scientist,Analytics,Low,2025,historical,112094.79986910996,3344.0,,,,,,,,,
+Research Scientist,Analytics,Low,2026,historical,110672.51015789474,3405.0,,,,,,,,,
+Research Scientist,Analytics,Low,2027,forecast,,,111280.11,3139.0,0.0589,112553.51,3392.86,0.017,-0.0036,0.015,0.03
+Research Scientist,Analytics,Low,2028,forecast,,,111501.02,3024.71,0.0589,114466.48,3380.77,0.017,-0.0036,0.015,0.03
+Research Scientist,Analytics,Low,2029,forecast,,,111721.93,2910.43,0.0589,116411.96,3368.72,0.017,-0.0036,0.015,0.03
+Research Scientist,Analytics,Low,2030,forecast,,,111942.84,2796.14,0.0589,118390.5,3356.72,0.017,-0.0036,0.015,0.03
+Research Scientist,Computer Vision,Medium,2020,historical,116459.16260663506,3701.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2021,historical,108512.88412663755,3805.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2022,historical,109577.86245495496,3894.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2023,historical,108983.93675233645,3666.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2024,historical,109001.79841232227,3754.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2025,historical,109508.17660621762,3558.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2026,historical,108168.66823232322,3220.0,,,,,,,,,
+Research Scientist,Computer Vision,Medium,2027,forecast,,,106679.36,3360.14,0.3952,111657.67,3467.82,0.0323,0.077,0.04,0.1
+Research Scientist,Computer Vision,Medium,2028,forecast,,,105841.61,3285.96,0.3952,115259.2,3734.72,0.0323,0.077,0.04,0.1
+Research Scientist,Computer Vision,Medium,2029,forecast,,,105003.86,3211.79,0.3952,118976.91,4022.15,0.0323,0.077,0.04,0.1
+Research Scientist,Computer Vision,Medium,2030,forecast,,,104166.12,3137.61,0.3952,122814.53,4331.71,0.0323,0.077,0.04,0.1
+Research Scientist,Forecasting,Low,2020,historical,110770.2775490196,3575.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2021,historical,114678.53033653846,3488.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2022,historical,103048.06565656565,3568.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2023,historical,103814.992325,3556.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2024,historical,106255.99552910053,3298.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2025,historical,113786.85177184465,3563.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2026,historical,104879.9883902439,3783.0,,,,,,,,,
+Research Scientist,Forecasting,Low,2027,forecast,,,105855.49,3619.29,0.0672,105872.96,3914.49,0.0095,0.0348,0.015,0.03
+Research Scientist,Forecasting,Low,2028,forecast,,,105275.26,3637.29,0.0672,106875.34,4050.55,0.0095,0.0348,0.015,0.03
+Research Scientist,Forecasting,Low,2029,forecast,,,104695.04,3655.29,0.0672,107887.21,4191.34,0.0095,0.0348,0.015,0.03
+Research Scientist,Forecasting,Low,2030,forecast,,,104114.81,3673.29,0.0672,108908.65,4337.02,0.0095,0.0348,0.015,0.03
+Research Scientist,Generative AI,High,2020,historical,111387.76388888889,3760.0,,,,,,,,,
+Research Scientist,Generative AI,High,2021,historical,111033.95094827586,2939.0,,,,,,,,,
+Research Scientist,Generative AI,High,2022,historical,109360.212325,3465.0,,,,,,,,,
+Research Scientist,Generative AI,High,2023,historical,103727.21505376344,3203.0,,,,,,,,,
+Research Scientist,Generative AI,High,2024,historical,112588.70508287294,3019.0,,,,,,,,,
+Research Scientist,Generative AI,High,2025,historical,113444.27497435898,3324.0,,,,,,,,,
+Research Scientist,Generative AI,High,2026,historical,108705.74180904523,3402.0,,,,,,,,,
+Research Scientist,Generative AI,High,2027,forecast,,,110035.85,3194.57,0.0,116315.25,4123.65,0.07,0.2121,0.07,0.22
+Research Scientist,Generative AI,High,2028,forecast,,,110035.96,3167.79,0.0,124457.44,4998.39,0.07,0.2121,0.07,0.22
+Research Scientist,Generative AI,High,2029,forecast,,,110036.07,3141.0,0.0,133169.59,6058.68,0.07,0.2121,0.07,0.22
+Research Scientist,Generative AI,High,2030,forecast,,,110036.18,3114.21,0.0,142491.59,7343.89,0.07,0.2121,0.07,0.22
+Research Scientist,LLM,High,2020,historical,114174.55831111112,3983.0,,,,,,,,,
+Research Scientist,LLM,High,2021,historical,114904.7894470046,3551.0,,,,,,,,,
+Research Scientist,LLM,High,2022,historical,111846.75058252427,3649.0,,,,,,,,,
+Research Scientist,LLM,High,2023,historical,109540.97906417113,3332.0,,,,,,,,,
+Research Scientist,LLM,High,2024,historical,111848.13734146341,3448.0,,,,,,,,,
+Research Scientist,LLM,High,2025,historical,112433.29931279621,3736.0,,,,,,,,,
+Research Scientist,LLM,High,2026,historical,107614.80753488373,3946.0,,,,,,,,,
+Research Scientist,LLM,High,2027,forecast,,,108248.93,3671.86,0.5653,114268.53,4816.19,0.0618,0.2205,0.07,0.22
+Research Scientist,LLM,High,2028,forecast,,,107369.61,3673.93,0.5653,121333.64,5878.28,0.0618,0.2205,0.07,0.22
+Research Scientist,LLM,High,2029,forecast,,,106490.29,3676.0,0.5653,128835.58,7174.59,0.0618,0.2205,0.07,0.22
+Research Scientist,LLM,High,2030,forecast,,,105610.98,3678.07,0.5653,136801.37,8756.77,0.0618,0.2205,0.07,0.22
+Research Scientist,MLOps,High,2020,historical,107531.02007246377,3464.0,,,,,,,,,
+Research Scientist,MLOps,High,2021,historical,111116.63095238095,2895.0,,,,,,,,,
+Research Scientist,MLOps,High,2022,historical,106792.84465346535,3557.0,,,,,,,,,
+Research Scientist,MLOps,High,2023,historical,106586.72538461538,3904.0,,,,,,,,,
+Research Scientist,MLOps,High,2024,historical,107792.29438118811,3666.0,,,,,,,,,
+Research Scientist,MLOps,High,2025,historical,109151.7321761658,3497.0,,,,,,,,,
+Research Scientist,MLOps,High,2026,historical,108128.49981865285,3428.0,,,,,,,,,
+Research Scientist,MLOps,High,2027,forecast,,,107994.55,3659.43,0.0032,115656.86,4225.2,0.0696,0.2326,0.07,0.22
+Research Scientist,MLOps,High,2028,forecast,,,107953.91,3702.46,0.0032,123709.37,5207.78,0.0696,0.2326,0.07,0.22
+Research Scientist,MLOps,High,2029,forecast,,,107913.27,3745.5,0.0032,132322.53,6418.87,0.0696,0.2326,0.07,0.22
+Research Scientist,MLOps,High,2030,forecast,,,107872.63,3788.54,0.0032,141535.37,7911.61,0.0696,0.2326,0.07,0.22
+Research Scientist,NLP,Medium,2020,historical,115401.05227272729,3219.0,,,,,,,,,
+Research Scientist,NLP,Medium,2021,historical,108867.75845794391,3773.0,,,,,,,,,
+Research Scientist,NLP,Medium,2022,historical,116029.52577669903,3570.0,,,,,,,,,
+Research Scientist,NLP,Medium,2023,historical,103605.66474747476,3585.0,,,,,,,,,
+Research Scientist,NLP,Medium,2024,historical,110220.72068421052,3346.0,,,,,,,,,
+Research Scientist,NLP,Medium,2025,historical,110381.53439903847,3705.0,,,,,,,,,
+Research Scientist,NLP,Medium,2026,historical,112417.48419117648,3460.0,,,,,,,,,
+Research Scientist,NLP,Medium,2027,forecast,,,109313.11,3574.43,0.046,116495.19,3818.96,0.0363,0.1037,0.04,0.1
+Research Scientist,NLP,Medium,2028,forecast,,,108894.11,3587.39,0.046,120720.8,4215.17,0.0363,0.1037,0.04,0.1
+Research Scientist,NLP,Medium,2029,forecast,,,108475.11,3600.36,0.046,125099.68,4652.48,0.0363,0.1037,0.04,0.1
+Research Scientist,NLP,Medium,2030,forecast,,,108056.12,3613.32,0.046,129637.4,5135.16,0.0363,0.1037,0.04,0.1
+Research Scientist,Reinforcement Learning,Low,2020,historical,107854.89195238095,3700.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2021,historical,106842.50918781725,3480.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2022,historical,100853.49484536082,3400.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2023,historical,104272.2955048077,3681.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2024,historical,107674.03051724136,3155.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2025,historical,108758.70941919192,3323.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2026,historical,107978.99575376885,3266.0,,,,,,,,,
+Research Scientist,Reinforcement Learning,Low,2027,forecast,,,107894.31,3163.43,0.0919,109992.44,3297.52,0.0186,0.0096,0.015,0.03
+Research Scientist,Reinforcement Learning,Low,2028,forecast,,,108288.07,3096.96,0.0919,112043.43,3329.34,0.0186,0.0096,0.015,0.03
+Research Scientist,Reinforcement Learning,Low,2029,forecast,,,108681.83,3030.5,0.0919,114132.66,3361.46,0.0186,0.0096,0.015,0.03
+Research Scientist,Reinforcement Learning,Low,2030,forecast,,,109075.59,2964.04,0.0919,116260.85,3393.9,0.0186,0.0096,0.015,0.03
+Software Engineer AI,Analytics,Low,2020,historical,96935.69021857923,3253.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2021,historical,98590.69649456523,3285.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2022,historical,93313.68493150685,3918.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2023,historical,98423.60103626944,3399.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2024,historical,99843.9858490566,3661.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2025,historical,98653.39487179487,3500.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2026,historical,99677.79899497487,3606.0,,,,,,,,,
+Software Engineer AI,Analytics,Low,2027,forecast,,,100045.84,3693.43,0.2617,101704.47,3758.18,0.0203,0.0422,0.015,0.03
+Software Engineer AI,Analytics,Low,2028,forecast,,,100577.34,3737.43,0.2617,103772.34,3916.78,0.0203,0.0422,0.015,0.03
+Software Engineer AI,Analytics,Low,2029,forecast,,,101108.84,3781.43,0.2617,105882.26,4082.08,0.0203,0.0422,0.015,0.03
+Software Engineer AI,Analytics,Low,2030,forecast,,,101640.34,3825.43,0.2617,108035.08,4254.35,0.0203,0.0422,0.015,0.03
+Software Engineer AI,Computer Vision,Medium,2020,historical,96757.18015306121,3272.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2021,historical,99772.83261802576,4156.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2022,historical,95169.530775,3515.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2023,historical,95893.95495495496,4022.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2024,historical,101235.76732673268,3639.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2025,historical,93264.2,3619.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2026,historical,98009.26704545454,2968.0,,,,,,,,,
+Software Engineer AI,Computer Vision,Medium,2027,forecast,,,96701.14,3332.71,0.0081,101815.54,3198.3,0.0388,0.0776,0.04,0.1
+Software Engineer AI,Computer Vision,Medium,2028,forecast,,,96587.04,3266.21,0.0081,105769.63,3446.47,0.0388,0.0776,0.04,0.1
+Software Engineer AI,Computer Vision,Medium,2029,forecast,,,96472.94,3199.71,0.0081,109877.28,3713.9,0.0388,0.0776,0.04,0.1
+Software Engineer AI,Computer Vision,Medium,2030,forecast,,,96358.84,3133.21,0.0081,114144.46,4002.07,0.0388,0.0776,0.04,0.1
+Software Engineer AI,Forecasting,Low,2020,historical,99052.25330808082,3602.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2021,historical,103029.75186635945,3855.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2022,historical,100042.6028708134,3792.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2023,historical,98645.78541025642,3382.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2024,historical,102469.77575757576,2732.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2025,historical,92840.93530373833,3798.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2026,historical,91320.56157635468,3518.0,,,,,,,,,
+Software Engineer AI,Forecasting,Low,2027,forecast,,,92322.3,3321.86,0.4959,91220.89,3572.61,-0.0011,0.0155,0.015,0.03
+Software Engineer AI,Forecasting,Low,2028,forecast,,,90852.82,3270.93,0.4959,91121.32,3628.07,-0.0011,0.0155,0.015,0.03
+Software Engineer AI,Forecasting,Low,2029,forecast,,,89383.34,3220.0,0.4959,91021.86,3684.39,-0.0011,0.0155,0.015,0.03
+Software Engineer AI,Forecasting,Low,2030,forecast,,,87913.85,3169.07,0.4959,90922.51,3741.59,-0.0011,0.0155,0.015,0.03
+Software Engineer AI,Generative AI,High,2020,historical,92502.38834951456,3576.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2021,historical,96833.66831683168,3402.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2022,historical,94672.82004651162,3821.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2023,historical,102108.20403743316,3317.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2024,historical,97636.87922705314,3562.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2025,historical,95244.99052132701,3837.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2026,historical,98764.14136125654,3238.0,,,,,,,,,
+Software Engineer AI,Generative AI,High,2027,forecast,,,99476.44,3478.57,0.2119,106340.92,3935.97,0.0767,0.2156,0.07,0.22
+Software Engineer AI,Generative AI,High,2028,forecast,,,100139.72,3464.18,0.2119,114498.95,4784.38,0.0767,0.2156,0.07,0.22
+Software Engineer AI,Generative AI,High,2029,forecast,,,100803.01,3449.79,0.2119,123282.83,5815.68,0.0767,0.2156,0.07,0.22
+Software Engineer AI,Generative AI,High,2030,forecast,,,101466.29,3435.39,0.2119,132740.58,7069.28,0.0767,0.2156,0.07,0.22
+Software Engineer AI,LLM,High,2020,historical,96900.65656565657,3476.0,,,,,,,,,
+Software Engineer AI,LLM,High,2021,historical,102336.3316972477,3834.0,,,,,,,,,
+Software Engineer AI,LLM,High,2022,historical,98417.87168141593,4033.0,,,,,,,,,
+Software Engineer AI,LLM,High,2023,historical,100268.15566037736,3717.0,,,,,,,,,
+Software Engineer AI,LLM,High,2024,historical,99965.51838495575,3931.0,,,,,,,,,
+Software Engineer AI,LLM,High,2025,historical,100116.02898550725,3623.0,,,,,,,,,
+Software Engineer AI,LLM,High,2026,historical,95340.07079787234,3288.0,,,,,,,,,
+Software Engineer AI,LLM,High,2027,forecast,,,97967.13,3544.86,0.062,101743.35,3972.5,0.0672,0.2082,0.07,0.22
+Software Engineer AI,LLM,High,2028,forecast,,,97696.61,3506.0,0.062,108576.69,4799.51,0.0672,0.2082,0.07,0.22
+Software Engineer AI,LLM,High,2029,forecast,,,97426.08,3467.14,0.062,115868.97,5798.68,0.0672,0.2082,0.07,0.22
+Software Engineer AI,LLM,High,2030,forecast,,,97155.55,3428.29,0.062,123651.03,7005.86,0.0672,0.2082,0.07,0.22
+Software Engineer AI,MLOps,High,2020,historical,98014.15239336493,3832.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2021,historical,96283.22,3520.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2022,historical,94688.57608695653,3174.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2023,historical,93582.48969072165,3428.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2024,historical,96031.76279735683,3964.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2025,historical,98632.79701388889,3731.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2026,historical,93684.78650510205,3442.0,,,,,,,,,
+Software Engineer AI,MLOps,High,2027,forecast,,,94853.15,3590.43,0.0723,99994.66,4200.74,0.0674,0.2204,0.07,0.22
+Software Engineer AI,MLOps,High,2028,forecast,,,94605.08,3591.93,0.0723,106729.51,5126.73,0.0674,0.2204,0.07,0.22
+Software Engineer AI,MLOps,High,2029,forecast,,,94357.02,3593.43,0.0723,113917.98,6256.85,0.0674,0.2204,0.07,0.22
+Software Engineer AI,MLOps,High,2030,forecast,,,94108.96,3594.93,0.0723,121590.6,7636.08,0.0674,0.2204,0.07,0.22
+Software Engineer AI,NLP,Medium,2020,historical,95386.33146596859,3365.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2021,historical,98569.82789954338,3944.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2022,historical,98541.5737704918,3528.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2023,historical,90509.03205729167,3426.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2024,historical,93039.10762331838,4034.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2025,historical,99495.72055555556,3635.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2026,historical,98935.37155,3144.0,,,,,,,,,
+Software Engineer AI,NLP,Medium,2027,forecast,,,97353.34,3471.57,0.0242,103142.66,3430.72,0.0425,0.0912,0.04,0.1
+Software Engineer AI,NLP,Medium,2028,forecast,,,97603.22,3443.89,0.0242,107528.86,3743.59,0.0425,0.0912,0.04,0.1
+Software Engineer AI,NLP,Medium,2029,forecast,,,97853.09,3416.21,0.0242,112101.6,4084.99,0.0425,0.0912,0.04,0.1
+Software Engineer AI,NLP,Medium,2030,forecast,,,98102.96,3388.54,0.0242,116868.79,4457.53,0.0425,0.0912,0.04,0.1
+Software Engineer AI,Reinforcement Learning,Low,2020,historical,98897.50875661377,3267.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2021,historical,97816.0637254902,3767.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2022,historical,102739.60979545455,4060.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2023,historical,98121.66145833333,3447.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2024,historical,95118.24420634922,3305.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2025,historical,91620.60298387098,3385.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2026,historical,96656.66484693877,3419.0,,,,,,,,,
+Software Engineer AI,Reinforcement Learning,Low,2027,forecast,,,93462.22,3369.57,0.362,97151.7,3483.61,0.0051,0.0189,0.015,0.03
+Software Engineer AI,Reinforcement Learning,Low,2028,forecast,,,92507.4,3331.61,0.362,97649.27,3549.43,0.0051,0.0189,0.015,0.03
+Software Engineer AI,Reinforcement Learning,Low,2029,forecast,,,91552.59,3293.64,0.362,98149.39,3616.5,0.0051,0.0189,0.015,0.03
+Software Engineer AI,Reinforcement Learning,Low,2030,forecast,,,90597.77,3255.68,0.362,98652.07,3684.84,0.0051,0.0189,0.015,0.03
